@@ -1,0 +1,25 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "type": "module",
+  "scripts": {
+    "index": "node index.js",
+    "process-argv": "node  exercicios/process-argv.js diego marina ",
+    "game1": "node exercicios/par-ou-impar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoborges182/labecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoborges182/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/diegoborges182/labecommerce-backend#readme"
+}
